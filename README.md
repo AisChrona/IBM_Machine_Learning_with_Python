@@ -2,7 +2,7 @@
 
 A detailed course offered by IBM, focused on understanding and applying core machine learning techniques using Python.
 
-## What I Learned
+  ## What I Learned
 
 -  The difference between **Statistical Modeling** and **Machine Learning**
 -  Real-life applications in **healthcare, telecom, finance**, and more
